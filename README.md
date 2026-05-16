@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/douglasaf98/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:douglas.ferreira98@hotmail.com">
+  <a href="mailto:douglas.aferreira98@gmail.com">
     <img src="https://img.shields.io/badge/Email-D44638?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/São_Paulo-BR-1e2327?style=flat" alt="São Paulo, BR"/>

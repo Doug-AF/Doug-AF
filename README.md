@@ -100,23 +100,6 @@ After hours, I'm a **builder**. I design and ship digital products end-to-end �
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Doug-AF&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="Doug-AF GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Doug-AF&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Doug-AF&theme=transparent&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Doug-AF&theme=minimal&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
 <p align="center">
   <sub>📬 Aberto a conversas sobre payments, fraude, fintech e produto financeiro · <em>Open to chats about payments, fraud, fintech, and financial product</em></sub>
 </p>
